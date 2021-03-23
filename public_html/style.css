@@ -1,0 +1,186 @@
+.navbar{
+    width: 100%;
+    height: 170px;
+    background-color: green;
+}
+.nav-logo{
+    width: 20%;
+    height: 170px;
+   float: left;
+  
+}
+.logo-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  margin-top: 10%;
+}
+.nav-h1{text-align: center;}
+.nav-heading{
+    width: 35%;
+    height: 170px;
+    margin-top: 30px;
+    float: left;   
+}
+a{
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.nav-menu{
+    width: 43%;
+    height: 170px;
+    margin-top: 60px;
+    float: right;
+    
+}
+.animation {
+  width: 100%;
+  height: 30px;
+  background-color: red;
+}
+.profile{
+    width: 100%;
+    height:650px;
+}
+.profile-h1{
+    text-align: center;
+    font-size: 4rem;
+    font-style: italic;
+    font-family: 'Akaya Kanadaka', cursive;
+
+}
+.discription{
+    width: 50%;
+    height: 550px;
+    font-size: 2rem;
+    padding-left: 30px;
+    text-align: justify;
+  text-justify: inter-word;
+    font-family: 'Akaya Kanadaka', cursive;
+    float: left;
+}
+.picture {
+   
+    width: 30%;
+    height: 500px;
+    float: right;
+}
+
+.about{
+    width: 100%;
+    height: 630px;
+    background-color: #C0DBE1;
+}
+.about-title{
+    align-content: flex-start;
+    color: green;
+    text-align: center;
+    font-size: 3rem;
+     font-family: 'Akaya Kanadaka', cursive;
+   
+}
+.hr-dotted{
+    width: 100%;
+    border: dotted 6px yellow;
+    border-bottom: none;
+    margin: 10px auto;
+    
+    
+}
+.photo{
+    width: 40%;
+    height: 400px;
+    float: left;
+}
+.about-image img{
+     border-radius: 50%;
+    height: 220px;
+    width: 200px;
+    margin: 100px;
+  
+}
+
+.about-dis{
+    width: 60%;
+    height: 500px;
+    float: left;
+    font-size: 1.rem;
+}
+.hr-dot{
+    width: 100%;
+    border: solid 5px white;
+    border-bottom: none;
+    margin: 10px auto;
+    
+}
+
+.academic{
+    width: 100%;
+    height: 400px; 
+}
+.education{
+     width: 50%;
+    height: 400px;
+     background: #D1F0E7;
+    float: left;
+}
+.result{
+    font-size: 1.5rem;
+    font-family: 'Akaya Kanadaka', cursive;
+        
+}
+.result-table{
+    width: 80%;
+    height: 200px;
+    margin: 2% 5%;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.workex{
+  width: 50%;
+    height: 400px;
+    background-color: #BEB1D9;
+    float: left; 
+    
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.contact{
+    width: 100%;
+    height: 500px;
+    background-color: #C0DBE1;
+}
+
+.contact-form{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    float: left;
+}
+.contact-table{
+    width: 80%;
+    height: 200px;
+    margin: 2% 5%;
+    text-align: center;
+    font-size: 1.2rem;
+    
+}
+.button2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.social-media{
+    width: 50%;
+    height: 400px;
+    float: left;
+    
+}
+.button3{
+    padding: 10%;
+}
